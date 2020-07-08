@@ -9,7 +9,7 @@ grade: stable
 confinement: strict
 
 apps:
-  test:
+  test-interface:
     command: plug-exec.sh
 plugs:
   test-content-plug:
